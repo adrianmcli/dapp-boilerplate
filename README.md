@@ -50,4 +50,6 @@ To add a contract and have [Typechain](https://github.com/ethereum-ts/TypeChain)
 
 # Contributing
 
-Make an issue to talk about what you'd like to see! PRs welcome, let's build this together! Frontend devs unite!
+Make an [issue](https://github.com/adrianmcli/dapp-boilerplate/issues) to talk about what you'd like to see!
+
+**PRs welcome, let's build this together! Frontend devs unite!**
