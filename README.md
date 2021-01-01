@@ -39,10 +39,11 @@ Includes:
 
 # Getting Started
 
-Clone the project and:
+Click "Use this template" at the top of this page, or click [here](https://github.com/adrianmcli/dapp-boilerplate/generate) to create your repo and clone locally.
 
-1. Run `yarn typechain` to generate the types for your contracts.
-2. Run `yarn dev` to begin developing.
+1. Run `yarn` to install dependencies.
+2. Run `yarn typechain` to generate the types for your contracts.
+3. Run `yarn dev` to begin developing.
 
 # Adding Contracts
 
