@@ -1,6 +1,11 @@
-# Dapp Boilerplate
+<p align="center">
+  <img alt="OMG Counters" src="https://i.imgur.com/XHOSEvl.png" width="440">
+</p>
+<p align="center">
+A minimal types-first boilerplate for Ethereum frontend dapp development.
+</p>
 
-A minimal boilerplate with all the proper safeguards for Ethereum frontend dapp development.
+# Dapp Boilerplate
 
 Includes:
 
