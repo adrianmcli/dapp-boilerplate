@@ -1,9 +1,17 @@
 <p align="center">
   <img alt="OMG Counters" src="https://i.imgur.com/XHOSEvl.png" width="440">
 </p>
+
 <p align="center">
 A minimal types-first boilerplate for Ethereum frontend dapp development.
 </p>
+
+<p align="center">
+  <img alt="typescript" src="https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg?style=for-the-badge">
+    <img alt="typed contracts" src="https://img.shields.io/badge/React-Next.js-lightgrey?style=for-the-badge&logo=next.js">
+  <img alt="typed contracts" src="https://img.shields.io/badge/ethereum-contracts-brightgreen?style=for-the-badge&logo=ethereum">
+</p>
+
 
 # Dapp Boilerplate
 
