@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "format": "prettier --write . --ignore-path .gitignore",
-    "typechain": "typechain --target ethers-v5 --outDir ./contracts/types ./contracts/*.json"
+    "typechain": "typechain --target ethers-v5 --outDir ./contracts/types './contracts/*.json'"
   },
   "dependencies": {
     "next": "^10.0.4",
